@@ -1,0 +1,6 @@
+<challenges version="1">
+	<challenge name="Choose your destiny (Easy)" endstage="8" altpath="true" secretpath="true" roomfilter="2, 4, 9, 10, 12, 13, 18, 19, 20, 21" playertype="30" cursefilter="255" />
+	<challenge name="Choose your destiny (Normal)" endstage="8" altpath="true" secretpath="true" roomfilter="2, 4, 9, 10, 12, 13, 18, 19, 20, 21" playertype="30" cursefilter="255" />
+	<challenge name="Choose your destiny (Hard)" endstage="8" altpath="true" secretpath="true" roomfilter="2, 4, 9, 10, 12, 13, 18, 19, 20, 21" playertype="30" cursefilter="255" />
+	<challenge name="Choose your destiny (Insane)" endstage="8" altpath="true" secretpath="true" roomfilter="2, 4, 9, 10, 12, 13, 18, 19, 20, 21" playertype="30" cursefilter="255" />
+</challenges>
